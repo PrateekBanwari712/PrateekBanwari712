@@ -71,20 +71,6 @@ Full Stack Developer | Building scalable web applications & exploring AI
 
 ---
 
-<!-- ======================= GITHUB ANALYTICS ======================= -->
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrateekBanwari712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekBanwari712&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-
 <!-- ======================= FOOTER ======================= -->
 
 <h3 align="center">

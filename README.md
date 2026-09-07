@@ -83,55 +83,7 @@ Full Stack Developer | Building scalable web applications & exploring AI
 
 ---
 
-<!-- ======================= STREAK ======================= -->
 
-# 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=PrateekBanwari712&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<!-- ======================= ACTIVITY GRAPH ======================= -->
-
-# 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrateekBanwari712&theme=tokyo-night&hide_border=true" />
-
----
-
-<!-- ======================= TROPHIES ======================= -->
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrateekBanwari712&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<!-- ======================= CONTRIBUTION SNAKE ======================= -->
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/PrateekBanwari712/PrateekBanwari712/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<!-- ======================= QUOTE ======================= -->
-
-## 💭 Developer Quote
-
-<p align="center">
-
-> "First, solve the problem. Then, write the code."
-
-</p>
-
----
 
 <!-- ======================= FOOTER ======================= -->
 

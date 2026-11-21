@@ -16,9 +16,8 @@ Full Stack Developer | Building scalable web applications & exploring AI
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on **AI Code Reviewer**
+* 🔭 **FullStack (MERN) developer**
 * 🌱 Exploring **AI, LLMs, MCP & Cloud Technologies**
-* 💻 Passionate about **Full Stack Development**
 * 🐳 Learning more about **Docker, System Design & DevOps**
 * 💬 Ask me about **React, Node.js, JavaScript & Backend Development**
 * 📫 Reach me at **[prateekbanwari0@gmail.com](mailto:prateekbanwari0@gmail.com)**
